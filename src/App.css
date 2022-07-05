@@ -1,0 +1,33 @@
+.app {
+  padding: 30px;
+   background-color: aqua; 
+}
+
+.todo {
+  align-items: center;
+  display: flex;
+  font-size: 18px;
+  justify-content: space-between;
+
+}
+.container{
+  background-color:white;
+  padding: 10px;
+  justify-content: center;
+  font-size: larger;
+  display: block;
+}
+
+.text-center{
+  padding: 5px;
+  background-color:blueviolet;
+  width: auto;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.input{
+  background-color:lightblue;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  justify-content: space-evenly;
+}
+
